@@ -11,7 +11,6 @@ The purpose of the analysis is to find out if the bike rental business is worth 
 # Results:
 - There was a total of 2,344,224 rides in the month of August.
 - Out of the total trips 1.9m+ users subscribe to the company and 443.8k users are customers.
-![image](https://user-images.githubusercontent.com/96395120/160062956-0f61c077-f867-4904-8f42-cedeb001ecd7.png)
 - The peak number of users who rent their bike are for 5-6 hour trips.
 ![image](https://user-images.githubusercontent.com/96395120/160063165-1161d4e5-80e6-40a7-9a18-63be71c645b6.png)
 - Males have been the majority of users.
