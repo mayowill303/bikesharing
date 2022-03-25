@@ -15,7 +15,7 @@ The purpose of the analysis is to find out if the bike rental business is worth 
 - Males have been the majority of users.
 - Thursday between 5pm-7pm is the most popular time to ride a bike, followed by 8a.
 
-Link to dashboard here.
+[link to dashboard]([link to dashboard](LINK GOES HERE "link to dashboard") "link to dashboard")
 
 # Summary
 
